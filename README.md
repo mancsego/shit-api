@@ -18,6 +18,14 @@ npm run start
 - create matching json files to your request urls
 
 /example/1.json --> create 1.json in src/results/example folder
+### JSON format
+```json
+{
+    "data": {
+        "anything": "you want"
+    }
+}
+```
 
 ## Perks
 
